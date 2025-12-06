@@ -167,6 +167,11 @@ This is a **complete HTML learning journey** from Level 1 to 5 🔥👨‍💻
 
 ---
 
-# 📸 **Screenshots (Optional — Add Later)**  
-You can add website previews here using:
+# 📸 **Screenshots**  
+- Table all tags (https://github.com/Saifullah7779/A-practice-project---HTML/blob/main/Screenshot%202025-12-06%20at%2012-25-34%20Document.png)
+- Order list tags (https://github.com/Saifullah7779/A-practice-project---HTML/blob/main/Screenshot%202025-12-06%20at%2012-26-08%20lists.png)
+- Practice set (https://github.com/Saifullah7779/A-practice-project---HTML/blob/main/Screenshot%202025-12-06%20at%2012-26-33%20Document.png)
+- View page source (https://github.com/Saifullah7779/A-practice-project---HTML/blob/main/Screenshot%202025-12-06%20at%2012-28-47%20Google.png)
+- Practice set (https://github.com/Saifullah7779/A-practice-project---HTML/blob/main/Screenshot%202025-12-06%20at%2012-29-19%20Document.png)
+
 
